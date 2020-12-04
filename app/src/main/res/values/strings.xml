@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BT Text</string>
+    <string name="scan">SCAN</string>
+    <string name="search">SEARCH</string>
+    <string name="listen">listen</string>
+    <string name="write_a_message">Write a message</string>
+    <string name="send">SEND</string>
+</resources>
